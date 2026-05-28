@@ -186,7 +186,7 @@ git pull origin main
 
 **Sree Sahithi**
 
-## **GitHub: **
+## GitHub:
 
 ---
 
