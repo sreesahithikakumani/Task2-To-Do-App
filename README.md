@@ -186,26 +186,11 @@ git pull origin main
 
 **Sree Sahithi**
 
-- GitHub: [@sreesahithikakumani](https://github.com/sreesahithikakumani)
+## **GitHub: **
 
 ---
 
-## 🎬 Live Demo
+## 🎬 **Live Demo:**
 
 [View Live Demo](#) *(Add your live demo link here)*
 
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests for any improvements.
-
----
-
-**Made with ❤️ by Sree Sahithi**
