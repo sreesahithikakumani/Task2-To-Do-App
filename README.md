@@ -189,8 +189,3 @@ git pull origin main
 ## GitHub:
 
 ---
-
-## 🎬 **Live Demo:**
-
-[View Live Demo](#) *(Add your live demo link here)*
-
